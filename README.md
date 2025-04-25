@@ -20,7 +20,7 @@ The cost of a controller is about 60 euros
 
 
 
-[Schematic_ESP-Controller.pdf](https://github.com/user-attachments/files/19905155/Schematic_ESP-Controller.pdf)
+
 
 
 
