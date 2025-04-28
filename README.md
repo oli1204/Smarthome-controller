@@ -18,6 +18,8 @@ The controllers are preferably housed in the fuse box in the electrical installa
 
 The cost of a controller is about 60 euros
 
+# Pictures
+
 ![PCB-Topside!](https://github.com/oli1204/Smarthome-controller/blob/main/images/PCB.png)
 
 
